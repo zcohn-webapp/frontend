@@ -1,0 +1,25 @@
+.header {
+    font-size: '1.5rem';
+    margin-bottom: '0.5rem';
+}
+
+.list-unstyled {
+    list-style: 'none';
+    padding: 0;
+}
+
+.listItem {
+    margin-bottom: '0.5rem';
+}
+
+.errmsg {
+    background-color: lightpink;
+    color: firebrick;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.hide {
+    display: none;
+}
